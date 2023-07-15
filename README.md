@@ -1,6 +1,6 @@
 # Workshop de IA e Visão Computacional
 
-Este repositório contém os materiais utilizados no Workshop de IA e Visão Computacional ministrado por [Beatriz Emiliano], [Raissa Pordeus] e [Moisés Cipriano]. O workshop abordou conceitos fundamentais de IA e explorou a aplicação da Visão Computacional para o reconhecimento de objetos usando a biblioteca Pipeline e o algoritmo YOLO.
+Este repositório contém os materiais utilizados no Workshop de IA e Visão Computacional ministrado por Beatriz Emiliano, Raissa Pordeus e Moisés Cipriano. O workshop abordou conceitos fundamentais de IA e explorou a aplicação da Visão Computacional para o reconhecimento de objetos usando a biblioteca Pipeline e o algoritmo YOLO.
 
 ## Descrição do Workshop
 
@@ -42,5 +42,5 @@ Este projeto está licenciado sob a [MIT License](https://opensource.org/license
 Esperamos que este repositório seja útil para você aprender e explorar a aplicação da IA e da Visão Computacional. Se você tiver alguma dúvida, entre em contato conosco!
 
 - [Beatriz Emiliano M. de Sousa](https://github.com/beatriz-emiliano) - UFCG
-- [Raissa Pordeus]([-](https://github.com/Raissa-Pordeus)) - UFCG
+- [Raissa Pordeus](https://github.com/Raissa-Pordeus) - UFCG
 - [Moisés Cipriano](https://github.com) - UFCG
