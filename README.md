@@ -1,46 +1,46 @@
-# Workshop de IA e Visão Computacional
+# AI and Computer Vision Workshop
 
-Este repositório contém os materiais utilizados no Workshop de IA e Visão Computacional ministrado por Beatriz Emiliano, Raissa Pordeus e Moisés Cipriano. O workshop abordou conceitos fundamentais de IA e explorou a aplicação da Visão Computacional para o reconhecimento de objetos usando a biblioteca Pipeline e o algoritmo YOLO.
+This repository contains the materials used in the AI and Computer Vision Workshop conducted by Beatriz Emiliano, Raissa Pordeus, and Moisés Cipriano. The workshop covered fundamental concepts of AI and explored the application of Computer Vision for object recognition using the Pipeline library and the YOLO algorithm.
 
-## Descrição do Workshop
+## Workshop Description
 
-Neste workshop, introduzimos os participantes aos conceitos básicos de IA e Visão Computacional e os guiamos na implementação de um sistema de detecção de objetos usando técnicas de hand tracking. A atividade prática foi realizada no ambiente Colab do Google usando Python.
+In this workshop, we introduced participants to the basic concepts of AI and Computer Vision and guided them through the implementation of an object detection system using hand tracking techniques. The practical activity was conducted in the Google Colab environment using Python.
 
-## Conteúdo do Repositório
+## Repository Contents
 
-- `hand_tracking`: Jupyter Notebook contendo o código-fonte completo da atividade prática de hand tracking usando a biblioteca Pipeline e o algoritmo YOLO.
-- `dados`: Pasta contendo os dados utilizados para treinamento do modelo YOLO. Os arquivos estão organizados nas classes correspondentes aos objetos detectados.
-- `imagens`: Imagens que usei para fazer o teste do hand_tracking
-- `README.md`: Este arquivo README fornecendo informações sobre o workshop e o repositório.
+- `hand_tracking`: Jupyter Notebook containing the complete source code for the hand tracking practical activity using the Pipeline library and the YOLO algorithm.
+- `data`: Folder containing the data used for training the YOLO model. The files are organized in classes corresponding to the detected objects.
+- `images`: Images used for testing the hand tracking.
+- `README.md`: This README file providing information about the workshop and the repository.
 
-## Pré-requisitos
+## Prerequisites
 
-- Conhecimento básico de programação em Python.
-- Familiaridade com conceitos fundamentais de IA e Visão Computacional.
-- Conta no Google Colab para executar o notebook.
+- Basic knowledge of Python programming.
+- Familiarity with fundamental concepts of AI and Computer Vision.
+- Google Colab account to run the notebook.
 
-## Como Executar o Notebook
+## How to Run the Notebook
 
-1. Faça o download do arquivo `hand_tracking.ipynb` neste repositório.
-2. Acesse o [Google Colab](https://colab.research.google.com/) e faça o login com sua conta.
-3. Carregue o arquivo `hand_tracking.ipynb` no Google Colab.
-4. Siga as instruções detalhadas no notebook para executar a atividade prática de hand tracking.
+1. Download the `hand_tracking.ipynb` file from this repository.
+2. Access [Google Colab](https://colab.research.google.com/) and log in with your account.
+3. Upload the `hand_tracking.ipynb` file to Google Colab.
+4. Follow the detailed instructions in the notebook to execute the hand tracking practical activity.
 
-## Recursos Adicionais
+## Additional Resources
 
-- [Biblioteca Pipeline](https://exemplo.com): Documentação oficial da biblioteca Pipeline.
-- [YOLO](https://exemplo.com): Informações sobre o algoritmo YOLO e implementações disponíveis.
+- [Pipeline Library](https://example.com): Official documentation of the Pipeline library.
+- [YOLO](https://pjreddie.com/darknet/yolo/): Information about the YOLO algorithm and available implementations.
 
-## Contribuição
+## Contribution
 
-Este repositório foi criado como parte do workshop, mas estamos abertos a contribuições e sugestões de melhorias. Se você encontrar problemas ou tiver ideias para aprimorar o código, sinta-se à vontade para enviar um pull request ou abrir uma issue.
+This repository was created as part of the workshop, but we are open to contributions and suggestions for improvements. If you encounter any issues or have ideas to enhance the code, feel free to submit a pull request or open an issue.
 
-## Licença
+## License
 
-Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-Esperamos que este repositório seja útil para você aprender e explorar a aplicação da IA e da Visão Computacional. Se você tiver alguma dúvida, entre em contato conosco!
+We hope this repository is helpful for you to learn and explore the application of AI and Computer Vision. If you have any questions, please contact us!
 
 - [Beatriz Emiliano M. de Sousa](https://github.com/beatriz-emiliano) - UFCG
 - [Raissa Pordeus](https://github.com/Raissa-Pordeus) - UFCG
-- [Moisés Cipriano](https://github.com) - UFCG
+- [Moisés Cipriano](https://github.com/Confuso01) - UFCG
